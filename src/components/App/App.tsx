@@ -9,6 +9,7 @@ const products: Product[] = [
   { id: "p2", name: "Fish Tacos", category: "Tacos" },
   { id: "p4", name: "Fries and Burger", category: "Burgers" },
   { id: "p5", name: "Cheeseburger", category: "Burgers" },
+  { id: "p7", name: "Veggie Burger", category: "Burger" },
 ];
 
 export function App() {
