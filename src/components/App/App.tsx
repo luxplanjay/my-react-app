@@ -7,7 +7,6 @@ import styles from "./App.module.css";
 const products: Product[] = [
   { id: "p1", name: "Tacos With Lime", category: "Tacos" },
   { id: "p2", name: "Fish Tacos", category: "Tacos" },
-  { id: "p3", name: "Chicken Tacos", category: "Tacos" },
   { id: "p4", name: "Fries and Burger", category: "Burgers" },
   { id: "p5", name: "Cheeseburger", category: "Burgers" },
 ];
